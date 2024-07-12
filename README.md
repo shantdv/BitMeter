@@ -5,18 +5,18 @@ juce audio compressor plug-in
 
 - VST3 Installation
 
- 1. unzip lalaComp.vst3
+ 1. unzip vst3
  
- 2. place lalaComp.vst3 in preferred vst3 folder
+ 2. place vst3 in preferred vst3 folder
 
 -------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------
 
 - Component Installation
 
- 1. unzip lalaComp.component
+ 1. unzip component
  
- 2. place lalaComp.component in preferred component folder
+ 2. place component in preferred component folder
  
 -------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------
