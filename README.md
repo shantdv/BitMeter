@@ -1,6 +1,6 @@
 #  BitMeter is A JUCE audio plugin designed to visualize bit depth levels across audio channels.
-how it should work: - The processor calculates how actively each bit position is used in the audio signal's dynamic range. 
-- The editor updates the visualization regularly based on the processed data, providing a real-time graphical display of bit usage across channels
+The processor calculates how actively each bit position is used in the audio signal's dynamic range. 
+The editor updates the visualization regularly based on the processed data, providing a real-time graphical display of bit usage across channels
 -------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------
 # Installation
